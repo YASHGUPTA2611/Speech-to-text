@@ -1,6 +1,6 @@
 # Speech-to-text
 
-## In this repository, i have created a google colab notebook, which helwp in converting audio into text.
+## In this repository, i have created a google colab notebook which uses Chat GPT model api and prompt engineering to converting audio into text.
 
 There are 3 services :- 
 
